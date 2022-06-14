@@ -1,7 +1,7 @@
 # DDOS
 Our Target Indian Site For Respect Our Prophet Nabi Karim Sallallahu Alaihi Wasallam
 
-#Run Or Install DDOS
+# Run Or Install DDOS
 
 ```
 termux-setup-storage
