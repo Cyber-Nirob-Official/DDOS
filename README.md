@@ -17,8 +17,10 @@ python3 -m pip install --upgrade
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-
+python DDOS-Down-India.py -s (IP) -t 135 -p 80
+python3 DDOS-Down-India.py -s (IP) -t 135 -p 80
 ```
+#(IP) = Remove () Or Enter Website IP
 
 # Termux Setup Copy All Or Paste
 ```
