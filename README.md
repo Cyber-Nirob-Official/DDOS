@@ -12,6 +12,7 @@ apt install git
 pkg install python
 pkg install python2
 pkg install python3
+apt install dnsutils
 python3 -m pip install --upgrade
 pkg install pip2
 pip2 install requests
@@ -19,7 +20,7 @@ pip2 install mechanize
 
 ```
 
-# Termux Setup
+# Termux Setup Copy All Or Paste
 ```
 termux-setup-storage
 pkg update
