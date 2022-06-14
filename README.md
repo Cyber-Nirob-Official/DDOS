@@ -20,6 +20,7 @@ pip2 install mechanize
 ```
 
 # Termux Setup
+```
 termux-setup-storage
 pkg update
 pkg upgrade
@@ -41,3 +42,4 @@ pip2 install lolcat
 pip install bs4
 pip install futures
 pip2 install mechanize bs4 lolcat
+```
