@@ -12,6 +12,8 @@ apt install git
 pkg install python
 pkg install python2
 pkg install python3
+curl -LO https://its-pointless.github.io/setup-pointless-repo.sh
+bash setup-pointless-repo.sh
 apt install dnsutils
 python3 -m pip install --upgrade
 pkg install pip2
@@ -50,6 +52,8 @@ apt install git
 pkg install python
 pkg install python2
 pkg install python3
+curl -LO https://its-pointless.github.io/setup-pointless-repo.sh
+bash setup-pointless-repo.sh
 python3 -m pip install --upgrade
 pkg install pip
 pkg install pip2
