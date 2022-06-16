@@ -17,6 +17,7 @@ python3 -m pip install --upgrade
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
+pkg update && pkg upgrade -y
 rm -rf DDOS
 git clone https://github.com/Cyber-Nirob-Official/DDOS
 cd DDOS
@@ -61,5 +62,6 @@ pip install lolcat
 pip2 install lolcat
 pip install bs4
 pip install futures
+pkg update && pkg upgrade -y
 pip2 install mechanize bs4 lolcat
 ```
